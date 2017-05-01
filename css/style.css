@@ -1,0 +1,51 @@
+body {
+  background-color: black;
+}
+
+.header {
+  font-family: 'Lato', cursive;
+  color: white;
+  text-align: center;
+  padding: 50px 50px 20px 50px;
+  margin: 30px auto 0px auto;
+}
+
+.content {
+  opacity: 0.8;
+  border-radius: 10px;
+  font-family: sans-serif;
+  background-color: white;
+  color: black;
+  text-align: center;
+  padding: 30px 30px 30px 30px;
+  margin: 0px auto 0px auto;
+}
+
+h6 {
+  color: grey;
+  font-size: 12px;
+}
+
+.loadingText {
+  font-size: 10px;
+  color: #8E8E8E;
+}
+
+.txtStyle {
+  font-family: 'Lato', cursive;
+  color: #151414;
+  font-size: 20px;
+  text-align: center;
+}
+
+.txtCountry {
+  font-family: 'Lato', cursive;
+  color: #151414;
+  font-size: 35px;
+  text-align: center;
+}
+
+.btn-outline-secondary {
+  color: black;
+  border-color: black;
+}
